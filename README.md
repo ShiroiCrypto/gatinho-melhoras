@@ -27,7 +27,7 @@ Como usar 🚀
 
 
 
-git clone https://github.com/seuusuario/gatinho_melhoras.git
+git clone https://github.com/ShiroiCrypto/gatinho_melhoras.git
 
 2. Abra o index.html no navegador e pronto, tá feito.
 
