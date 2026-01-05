@@ -23,7 +23,7 @@ A ideia é ter um **site leve e simpático**, com um gatinho em GIF e umas estre
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/gatinho_melhoras.git
+git clone https://github.com/ShiroiCrypto/gatinho_melhoras.git
 ```
 
 2. Abra o arquivo `index.html` no navegador e pronto, o site já vai estar funcionando.
